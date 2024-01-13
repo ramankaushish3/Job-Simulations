@@ -1,0 +1,38 @@
+Revenue Analysis: What are the top-selling products and categories? What is the average order value? What is the revenue contribution by product category and individual products?
+
+Customer Analysis: What is the demographic profile of our top customers? What is the customer acquisition cost? What is the lifetime value of a customer? What is the customer retention rate?
+
+Marketing Analysis: Which marketing channels are driving the most traffic and conversions? What is the return on investment for each marketing channel? What is the effectiveness of our marketing campaigns?
+
+Operational Analysis: What is the average order fulfillment time? What is the rate of return or refund requests? What is the inventory turnover rate?
+
+Expansion Analysis: Which regions have the highest sales? Which regions have the most potential for growth? What are the demographic trends in these regions?
+
+Competitive Analysis: Who are our main competitors? What are they doing differently? What are the industry trends?
+
+Business Success Metrics: How the key performance indicators are applied?
+
+Some other job specific questions can be:-
+
+Which region is generating the highest revenue, and which region is generating the lowest?
+
+What is the monthly trend of revenue, which months have faced the biggest increase/decrease?
+
+Which months generated the most revenue? Is there a seasonality in sales?
+
+Who are the top customers and how much do they contribute to the total revenue? Is the business
+dependent on these customers or is the customer base diversified?
+
+
+Questions of interest to the CMO
+
+
+What is the percentage of customers who are repeating their orders? Are they ordering the same
+products or different?
+
+For the repeat customers, how long does it take for them to place the next order after being delivered
+the previous one?
+
+What revenue is being generated from the customers who have ordered more than once?
+
+Who are the customers that have repeated the most? How much are they contributing to revenue?
